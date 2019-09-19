@@ -1,0 +1,9 @@
+
+.container-fluid{
+    background-color: transparent;
+    height: 100%;
+    margin-top: 150px;
+}
+.container-fluid h1{
+    color: var(--headerTxt);
+}
